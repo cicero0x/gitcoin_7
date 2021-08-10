@@ -1,4 +1,4 @@
-# Gitcoin Task 5
+# Gitcoin Task 7
 
 # Screenshots of application running on Godwoken
 The application is a fork of an ethereum todo-list by Dapp University. The user is able to add and remove items by signing a transaction.
